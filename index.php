@@ -17,8 +17,7 @@ include "koneksi.php";
 <body>
     <div class="container">
         <div class="mt-4">
-            <h1 align="center">STUDY GROUP PERTEMUAN 1 <br>Wahyu S Tamuu</h1>
-            <h4 align="center">Calon Kadiv Programing</h4>
+            <h1 align="center">STUDY GROUP PERTEMUAN 1</h1>
             <a href="tambah.php" class="btn btn-primary mt-3">Tambah</a>
             <table class="table table-bordered table-hover table-striped mt-3">
                 <tr>
